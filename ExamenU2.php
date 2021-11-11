@@ -1,7 +1,7 @@
 <?php
 $port = 1433;
 $serverName = "examenu2.database.windows.net" . $port;
-$database = "EXAMENU2";
+$database = "EXAMEN";
 $userName = "Student";
 $password = "Pa55w.rd";
 
