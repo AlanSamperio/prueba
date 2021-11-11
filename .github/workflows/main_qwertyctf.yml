@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'qwertyctf'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_10EC4EC815584AC6943F87EEAE6F1190 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_7B37739B1A824F05815A7E771E9836FB }}
           package: .
