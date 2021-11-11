@@ -1,6 +1,6 @@
 <?php
 $port = 1433;
-$serverName = "examenu2.database.windows.net" . $port;
+$serverName = "serverexamen.database.windows.net" . $port;
 $database = "EXAMEN";
 $userName = "Student";
 $password = "Pa55w.rd";
